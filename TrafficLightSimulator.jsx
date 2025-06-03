@@ -1,1 +1,1 @@
-add static HTML and CSS for traffic light
+convert to functional React Components
